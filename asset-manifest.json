@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/assignment-teachmint/static/css/main.c702c021.css",
+    "main.js": "/assignment-teachmint/static/js/main.1b178c14.js",
+    "static/js/787.28cb0dcd.chunk.js": "/assignment-teachmint/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/assignment-teachmint/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/assignment-teachmint/index.html",
+    "main.c702c021.css.map": "/assignment-teachmint/static/css/main.c702c021.css.map",
+    "main.1b178c14.js.map": "/assignment-teachmint/static/js/main.1b178c14.js.map",
+    "787.28cb0dcd.chunk.js.map": "/assignment-teachmint/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c702c021.css",
+    "static/js/main.1b178c14.js"
+  ]
+}
